@@ -1,0 +1,138 @@
+Identifiers
+===========
+names given to the 	variables
+	       		methods
+			classes
+			interfaces
+			packages etc.,
+
+Example: myVariable
+  	 x
+          i etc.,
+
+
+rules for writing the identifiers:
+==================================
+
+identifier should start with letter
+ eg :- myVariable (valid)
+       1myVariable(not valid)
+
+identifier should not contain special symbols except $ and _
+
+ eg :- _myVariable (valid)
+	$myVariable (valid)
+	my$Variable (valid)
+	my_Variable (valid)
+	my_Variable$ (valid)
+       -myVariable(not valid)
+	.myVariable(not valid)
+	my+Variable(not valid)
+
+if identifier have two words should not be separated by space
+
+Eg:- my Variable(not valid)
+     myVariable(valid)
+
+
+literal
+=======
+
+1234 => integer literal
+123.45 => float literal /real value
+'c' => character literal
+"this is a string" => String literal
+false/true => boolean values/literals
+
+
+variable
+========
+
+A java variable is a piece of memory that can contain data or values.
+Java Compiler will helps to create memory and store the variables.
+
+JVM is known as Java Virtual Machine which provides execution environment for the java programs.
+
+
+DataTypes
+=========
+
+Datatypes in java is used to represent the type of data stored in the variable.
+
+
+Integer Data Types
+==================
+
+long -> 8 bytes -> 64 bits => 90000000000
+int  -> 4 bytes -> 32 bits => -2,147,483,648 to 2,147,483,647
+short -> 2 bytes -> 16 bits => -32768 to 32767
+byte  -> 1 bytes -> 8 bits  =. -128 to 127
+
+
+Float
+=====
+float  => upto 7 decimals => Ex: 123.1234567f; => 4 bytes
+double => 16 decimals => eX:-  123.1234567123456712; => 8 bytes
+
+
+
+Character
+=========
+
+char => 2 bytes => unicode character set not ascii values
+
+to develop i18N(internationalization) supporting application.
+
+locale time and date - Geo location
+
+
+Boolean
+=======
+
+true or false (its not 0 and 1)
+
+
+type casting
+============
+
+converting a datatype in to another datatype
+
+there are two types of type casting:
+
+1.implicit typecasting
+	converting smaller data type to larger data type
+
+	Ex:- int to float
+	      float to double
+            	int to double
+		short to int
+		byte to short etc.,
+
+2.explicit typecasting
+	converting larger data type to smaller data type
+
+Ex:- float to int
+	double to int
+	double to float
+ etc.,
+
+Secondary Data Types:
+=====================
+
+Array
+String etc.,
+
+
+
+
+Control Statements
+==================
+
+if 
+if else
+for
+switch
+while
+do-while
+
+Arrays

@@ -1,0 +1,66 @@
+Java Buzzwords
+================
+
+S2 PORMA HI D2
+
+Simple
+Secure
+
+Portable
+ObjectOriented
+Robust
+Multithreading
+Architecture Neutral
+
+
+High Performance
+Interpreted
+
+Distributed (Remote Method Invocation programs can be written easily using Java)
+Dynamic (Internet)/web applications can be easily developed using Java to access on network
+
+
+WORA - Write Once Run Anywhere
+
+platforms - software - operating systems - portable
+Architecture Neutral - microprocessor (i3 -> i5 or i7)
+
+
+Java Programs are Platform independent
+
+
+Secure applications can be developed using java 
+
+Java support OOPs 
+
+- exchanging the information using objects in the programs
+-	class
+	object
+	Encapsulation
+	Abstraction
+	Inheritance
+  	polymorphism
+
+
+Translators
+
+-> Interpreter
+-> Compiler
+
+HIgh level code(ENglish code) to machine level code(0 's and 1 's) 
+
+Interpreter will convert the code line by line
+compiler will convert the all lines of code at once
+
+java has both compiler and interpreter
+
+
+
+
+
+
+
+
+
+
+
